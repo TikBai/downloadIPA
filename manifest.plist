@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.tikbai.club/bank.ipa</string>
+					<string>http://www.tikbai.club/file/ios/ipa/bank.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.tikbai.club/wjrcb.jpg</string>
+					<string>http://www.tikbai.club//file/ios/images/wjrcb.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.tikbai.club/wjrcb.jpg</string>
+					<string>http://www.tikbai.club//file/ios/images/wjrcb.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
